@@ -1,0 +1,10 @@
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+}
+#img-show{
+    height: 400px;
+    width: 400px;
+}
